@@ -1,0 +1,40 @@
+.weblu-client-panel {
+    background: #181818;
+    color: #eaeaea;
+    padding: 32px;
+    border-radius: 18px;
+    max-width: 600px;
+    margin: 48px auto;
+    font-family: 'Segoe UI', 'Montserrat', Arial, sans-serif;
+    box-shadow: 0 4px 24px rgba(33, 118, 255, 0.06);
+}
+.weblu-panel-header {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 24px;
+}
+.weblu-logo {
+    height: 48px;
+    background: none;
+    border: none;
+}
+.weblu-panel-header h1 {
+    color: #2176ff;
+    font-weight: 600;
+    font-size: 2rem;
+    margin: 0;
+    letter-spacing: 2px;
+}
+.weblu-panel-body {
+    background: #101010;
+    border-radius: 12px;
+    padding: 24px;
+}
+.weblu-services-list {
+    margin-top: 16px;
+    list-style-type: disc;
+    color: #ff3ebf;
+    padding-left: 32px;
+    font-size: 1.1rem;
+}
